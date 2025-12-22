@@ -1,5 +1,5 @@
 # Staked Celo Web App
-
+--------
 ## Development
 
 Installation: `yarn install`
